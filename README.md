@@ -1,6 +1,6 @@
-SABDash
+SABDash for Tingbot
 =====
-Another app to monitor downloads and manage your SABnzbd queue
+Another app to monitor downloads and manage your SABnzbd queue on Tingbot
 
 Settings
 --------
