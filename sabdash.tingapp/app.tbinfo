@@ -1,0 +1,9 @@
+{
+    "name": "SABDash",
+    "author": "Paul Holmes",
+    "caption": "Another app to monitor downloads and manage your queue",
+    "version": "0.1",
+    "twitter": "@codinghands",
+    "website": "https://github.com/codinghands/sabdash"
+    "background_color": "001F3F"
+}
