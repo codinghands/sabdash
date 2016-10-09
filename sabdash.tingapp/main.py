@@ -40,7 +40,7 @@ def clearQueue():
 def drawDashboardPage(page):
     x = page['x']
     # x is the leftmost edge of the page
-    screen.image('sabnzbd.png', xy=(x+(dims['w']/2),20), align='top')
+    screen.image('images/sabnzbd.png', xy=(x+(dims['w']/2),20), align='top')
 
     speed = parseSpeed(queue['kbpersec'])
 
@@ -90,7 +90,7 @@ def touchedDashboardPage(xy, action):
 def drawControlPage(page):
     x = page['x']
     
-    screen.image('sabnzbd.png', xy=(x+(dims['w']/2),20), align='top')
+    screen.image('images/sabnzbd.png', xy=(x+(dims['w']/2),20), align='top')
         
     for button in page['buttons']:
         drawButton(x+button['dims']['x'], button['dims']['y'], button['dims']['w'], button['dims']['h'], button['text'][button['state']], button['pressed'])
