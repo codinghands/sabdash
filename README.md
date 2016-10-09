@@ -22,7 +22,7 @@ MIT (for more, see LICENSE.md)
 
 Copyright
 ---------
-App icon based on the 'Download free icon' made by [Freepik](http://www.flaticon.com/authors/pixel-buddha) from [FlatIcon](www.flaticon.com)
+App icon based on the 'Download free icon' made by [Freepik](http://www.flaticon.com/authors/pixel-buddha) from [FlatIcon](http://www.flaticon.com)
 
 SABnzbd and the SABnzbd logo are ©SABnzbd team - see [here](https://sabnzbd.org/wiki/contact).
 
