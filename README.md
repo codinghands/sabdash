@@ -1,6 +1,16 @@
-
+SABDash
 =====
+Another app to monitor downloads and manage your SABnzbd queue
 
+Settings
+--------
+1. Update settings.json (or create local_settings.json copying the same structure) with your SABnzbd host, port and API key
+2. Run it :)
+
+Troubleshooting
+---------------
+* The app says 'Couldn't Connect'!
+Check your settings match.
 
 License
 -------
