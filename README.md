@@ -18,7 +18,7 @@ Settings
 
 License
 -------
-MIT (see LICENSE.md)
+MIT (for more, see LICENSE.md)
 
 Copyright
 ---------
