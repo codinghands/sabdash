@@ -2,7 +2,7 @@ SABDash for Tingbot
 =====
 Another app to monitor downloads and manage your SABnzbd queue on Tingbot
 
-<center>![alt text](https://s11.postimg.org/5df2k5zyb/demo.gif "SABDash In Action")</center>
+![alt text](https://s9.postimg.org/mj9b4onz3/demo.gif "SABDash In Action")
 
 Settings
 --------
