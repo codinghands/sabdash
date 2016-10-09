@@ -5,11 +5,13 @@ Another app to monitor downloads and manage your SABnzbd queue on Tingbot
 Settings
 --------
 * Create a settings.json file with the following contents:
+```json
     {
         "host":"YOUR_SABNZBD_HOSTNAME_OR_IP",
         "port":"YOUR_SABNZBD_PORT",
         "apikey":"YOUR_SABNZBD_HOSTNAME_APIKEY"
     }
+```
 * Run it :)
 
 Troubleshooting
