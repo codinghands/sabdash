@@ -2,6 +2,8 @@ SABDash for Tingbot
 =====
 Another app to monitor downloads and manage your SABnzbd queue on Tingbot
 
+![alt text](https://s11.postimg.org/5df2k5zyb/demo.gif "SABDash In Action")
+
 Settings
 --------
 * Create a settings.json file with the following contents:
@@ -13,11 +15,6 @@ Settings
     }
 ```
 * Run it :)
-
-Troubleshooting
----------------
-* The app says 'Couldn't Connect'!
-Check your settings (like above).
 
 License
 -------
